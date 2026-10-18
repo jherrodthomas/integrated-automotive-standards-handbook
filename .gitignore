@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+~*
+
+# Temp files
+*.tmp
+temp/
+logs/
+~BROMIUM/
+
+# Preview images (generated from PDFs for verification)
+*_preview.jpg
+*_preview.png
