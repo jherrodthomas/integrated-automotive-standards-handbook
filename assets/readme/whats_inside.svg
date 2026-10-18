@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 405" width="920" height="405">
+  
+    <g>
+      <rect x="10" y="10" width="900" height="68" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="10" width="4" height="68" rx="2" fill="#1479F5"/>
+      <!-- Part number -->
+      <rect x="26" y="24" width="52" height="40" rx="6" fill="#1479F5" fill-opacity="0.1"/>
+      <text x="52" y="40" text-anchor="middle" fill="#1479F5" font-family="system-ui, sans-serif" font-size="10" font-weight="600">PART</text>
+      <text x="52" y="56" text-anchor="middle" fill="#1479F5" font-family="system-ui, sans-serif" font-size="16" font-weight="800">I</text>
+      <!-- Title & desc -->
+      <text x="92" y="38" fill="#10264D" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Foundation & Framework</text>
+      <text x="92" y="58" fill="#475569" font-family="system-ui, sans-serif" font-size="11">Standards overview, integration framework, unified V-model</text>
+      <!-- Chapter badge -->
+      <rect x="810" y="30" width="85" height="28" rx="14" fill="#1479F5" fill-opacity="0.08" stroke="#1479F5" stroke-width="0.5"/>
+      <text x="852" y="49" text-anchor="middle" fill="#1479F5" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Ch 1–3</text>
+    </g>
+    <g>
+      <rect x="10" y="88" width="900" height="68" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="88" width="4" height="68" rx="2" fill="#0E7C7B"/>
+      <!-- Part number -->
+      <rect x="26" y="102" width="52" height="40" rx="6" fill="#0E7C7B" fill-opacity="0.1"/>
+      <text x="52" y="118" text-anchor="middle" fill="#0E7C7B" font-family="system-ui, sans-serif" font-size="10" font-weight="600">PART</text>
+      <text x="52" y="134" text-anchor="middle" fill="#0E7C7B" font-family="system-ui, sans-serif" font-size="16" font-weight="800">II</text>
+      <!-- Title & desc -->
+      <text x="92" y="116" fill="#10264D" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Clause-Level Cross-Mapping</text>
+      <text x="92" y="136" fill="#475569" font-family="system-ui, sans-serif" font-size="11">Lifecycle phases, Rosetta Stone tables, worked AEB examples</text>
+      <!-- Chapter badge -->
+      <rect x="810" y="108" width="85" height="28" rx="14" fill="#0E7C7B" fill-opacity="0.08" stroke="#0E7C7B" stroke-width="0.5"/>
+      <text x="852" y="127" text-anchor="middle" fill="#0E7C7B" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Ch 4–10</text>
+    </g>
+    <g>
+      <rect x="10" y="166" width="900" height="68" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="166" width="4" height="68" rx="2" fill="#E0A33E"/>
+      <!-- Part number -->
+      <rect x="26" y="180" width="52" height="40" rx="6" fill="#E0A33E" fill-opacity="0.1"/>
+      <text x="52" y="196" text-anchor="middle" fill="#E0A33E" font-family="system-ui, sans-serif" font-size="10" font-weight="600">PART</text>
+      <text x="52" y="212" text-anchor="middle" fill="#E0A33E" font-family="system-ui, sans-serif" font-size="16" font-weight="800">III</text>
+      <!-- Title & desc -->
+      <text x="92" y="194" fill="#10264D" font-family="system-ui, sans-serif" font-size="14" font-weight="700">End-to-End Worked Examples</text>
+      <text x="92" y="214" fill="#475569" font-family="system-ui, sans-serif" font-size="11">ADAS camera ECU (ASIL B(D)) + AI pedestrian detection (ASIL C)</text>
+      <!-- Chapter badge -->
+      <rect x="810" y="186" width="85" height="28" rx="14" fill="#E0A33E" fill-opacity="0.08" stroke="#E0A33E" stroke-width="0.5"/>
+      <text x="852" y="205" text-anchor="middle" fill="#E0A33E" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Ch 11–12</text>
+    </g>
+    <g>
+      <rect x="10" y="244" width="900" height="68" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="244" width="4" height="68" rx="2" fill="#059669"/>
+      <!-- Part number -->
+      <rect x="26" y="258" width="52" height="40" rx="6" fill="#059669" fill-opacity="0.1"/>
+      <text x="52" y="274" text-anchor="middle" fill="#059669" font-family="system-ui, sans-serif" font-size="10" font-weight="600">PART</text>
+      <text x="52" y="290" text-anchor="middle" fill="#059669" font-family="system-ui, sans-serif" font-size="16" font-weight="800">IV</text>
+      <!-- Title & desc -->
+      <text x="92" y="272" fill="#10264D" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Practical Tools</text>
+      <text x="92" y="292" fill="#475569" font-family="system-ui, sans-serif" font-size="11">8 templates, audit guide, tool qualification, 3 tool chains</text>
+      <!-- Chapter badge -->
+      <rect x="810" y="264" width="85" height="28" rx="14" fill="#059669" fill-opacity="0.08" stroke="#059669" stroke-width="0.5"/>
+      <text x="852" y="283" text-anchor="middle" fill="#059669" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Ch 13–16</text>
+    </g>
+    <g>
+      <rect x="10" y="322" width="900" height="68" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="322" width="4" height="68" rx="2" fill="#D45B45"/>
+      <!-- Part number -->
+      <rect x="26" y="336" width="52" height="40" rx="6" fill="#D45B45" fill-opacity="0.1"/>
+      <text x="52" y="352" text-anchor="middle" fill="#D45B45" font-family="system-ui, sans-serif" font-size="10" font-weight="600">PART</text>
+      <text x="52" y="368" text-anchor="middle" fill="#D45B45" font-family="system-ui, sans-serif" font-size="16" font-weight="800">V</text>
+      <!-- Title & desc -->
+      <text x="92" y="350" fill="#10264D" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Physical AI Bridge</text>
+      <text x="92" y="370" fill="#475569" font-family="system-ui, sans-serif" font-size="11">IEC 61508, ISO 13849-1, ISO 10218 integration</text>
+      <!-- Chapter badge -->
+      <rect x="810" y="342" width="85" height="28" rx="14" fill="#D45B45" fill-opacity="0.08" stroke="#D45B45" stroke-width="0.5"/>
+      <text x="852" y="361" text-anchor="middle" fill="#D45B45" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Ch 17</text>
+    </g>
+</svg>

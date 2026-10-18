@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 380" width="940" height="380">
+  <rect width="940" height="380" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  <!-- Section label -->
+  <text x="470" y="-8" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="11" font-weight="600" letter-spacing="2"></text>
+  
+    <g>
+      <rect x="10" y="10" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="10" width="290" height="4" rx="2" fill="#1479F5"/>
+      <!-- Abbr badge -->
+      <rect x="22" y="28" width="40" height="24" rx="4" fill="#1479F5" fill-opacity="0.12"/>
+      <text x="42" y="45" text-anchor="middle" fill="#1479F5" font-family="system-ui, sans-serif" font-size="11" font-weight="700">FS</text>
+      <!-- Name & edition -->
+      <text x="72" y="42" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO 26262</text>
+      <text x="72" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2018 (Ed.2)</text>
+      <!-- Domain -->
+      <text x="22" y="84" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Functional Safety</text>
+      <text x="22" y="100" fill="#475569" font-family="system-ui, sans-serif" font-size="10">E/E Systems</text>
+    </g>
+    <g>
+      <rect x="320" y="10" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="320" y="10" width="290" height="4" rx="2" fill="#0E7C7B"/>
+      <!-- Abbr badge -->
+      <rect x="332" y="28" width="40" height="24" rx="4" fill="#0E7C7B" fill-opacity="0.12"/>
+      <text x="352" y="45" text-anchor="middle" fill="#0E7C7B" font-family="system-ui, sans-serif" font-size="11" font-weight="700">CS</text>
+      <!-- Name & edition -->
+      <text x="382" y="42" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO/SAE 21434</text>
+      <text x="382" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2021</text>
+      <!-- Domain -->
+      <text x="332" y="84" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Cybersecurity</text>
+      <text x="332" y="100" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Engineering</text>
+    </g>
+    <g>
+      <rect x="630" y="10" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="630" y="10" width="290" height="4" rx="2" fill="#E0A33E"/>
+      <!-- Abbr badge -->
+      <rect x="642" y="28" width="40" height="24" rx="4" fill="#E0A33E" fill-opacity="0.12"/>
+      <text x="662" y="45" text-anchor="middle" fill="#E0A33E" font-family="system-ui, sans-serif" font-size="11" font-weight="700">SF</text>
+      <!-- Name & edition -->
+      <text x="692" y="42" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO 21448</text>
+      <text x="692" y="58" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2022</text>
+      <!-- Domain -->
+      <text x="642" y="84" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">SOTIF</text>
+      <text x="642" y="100" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Intended Functionality</text>
+    </g>
+    <g>
+      <rect x="10" y="130" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="130" width="290" height="4" rx="2" fill="#7C3AED"/>
+      <!-- Abbr badge -->
+      <rect x="22" y="148" width="40" height="24" rx="4" fill="#7C3AED" fill-opacity="0.12"/>
+      <text x="42" y="165" text-anchor="middle" fill="#7C3AED" font-family="system-ui, sans-serif" font-size="11" font-weight="700">AI</text>
+      <!-- Name & edition -->
+      <text x="72" y="162" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO/PAS 8800</text>
+      <text x="72" y="178" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2024</text>
+      <!-- Domain -->
+      <text x="22" y="204" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">AI/ML Safety</text>
+      <text x="22" y="220" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Road Vehicles</text>
+    </g>
+    <g>
+      <rect x="320" y="130" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="320" y="130" width="290" height="4" rx="2" fill="#059669"/>
+      <!-- Abbr badge -->
+      <rect x="332" y="148" width="40" height="24" rx="4" fill="#059669" fill-opacity="0.12"/>
+      <text x="352" y="165" text-anchor="middle" fill="#059669" font-family="system-ui, sans-serif" font-size="11" font-weight="700">QM</text>
+      <!-- Name & edition -->
+      <text x="382" y="162" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO 9001 / IATF</text>
+      <text x="382" y="178" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2015/2016</text>
+      <!-- Domain -->
+      <text x="332" y="204" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Quality Mgmt</text>
+      <text x="332" y="220" fill="#475569" font-family="system-ui, sans-serif" font-size="10">System</text>
+    </g>
+    <g>
+      <rect x="630" y="130" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="630" y="130" width="290" height="4" rx="2" fill="#0891B2"/>
+      <!-- Abbr badge -->
+      <rect x="642" y="148" width="40" height="24" rx="4" fill="#0891B2" fill-opacity="0.12"/>
+      <text x="662" y="165" text-anchor="middle" fill="#0891B2" font-family="system-ui, sans-serif" font-size="11" font-weight="700">PC</text>
+      <!-- Name & edition -->
+      <text x="692" y="162" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ASPICE v4.0</text>
+      <text x="692" y="178" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2023</text>
+      <!-- Domain -->
+      <text x="642" y="204" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Process Capability</text>
+      <text x="642" y="220" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Assessment</text>
+    </g>
+    <g>
+      <rect x="10" y="250" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="250" width="290" height="4" rx="2" fill="#D45B45"/>
+      <!-- Abbr badge -->
+      <rect x="22" y="268" width="40" height="24" rx="4" fill="#D45B45" fill-opacity="0.12"/>
+      <text x="42" y="285" text-anchor="middle" fill="#D45B45" font-family="system-ui, sans-serif" font-size="11" font-weight="700">SI</text>
+      <!-- Name & edition -->
+      <text x="72" y="282" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">IEC 61508</text>
+      <text x="72" y="298" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">Ed.2 (2010)</text>
+      <!-- Domain -->
+      <text x="22" y="324" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Functional Safety</text>
+      <text x="22" y="340" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Industrial (Parent)</text>
+    </g>
+    <g>
+      <rect x="320" y="250" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="320" y="250" width="290" height="4" rx="2" fill="#4F46E5"/>
+      <!-- Abbr badge -->
+      <rect x="332" y="268" width="40" height="24" rx="4" fill="#4F46E5" fill-opacity="0.12"/>
+      <text x="352" y="285" text-anchor="middle" fill="#4F46E5" font-family="system-ui, sans-serif" font-size="11" font-weight="700">MC</text>
+      <!-- Name & edition -->
+      <text x="382" y="282" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO 13849-1</text>
+      <text x="382" y="298" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2023</text>
+      <!-- Domain -->
+      <text x="332" y="324" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Safety of Machinery</text>
+      <text x="332" y="340" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Control Systems</text>
+    </g>
+    <g>
+      <rect x="630" y="250" width="290" height="110" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="630" y="250" width="290" height="4" rx="2" fill="#E11D48"/>
+      <!-- Abbr badge -->
+      <rect x="642" y="268" width="40" height="24" rx="4" fill="#E11D48" fill-opacity="0.12"/>
+      <text x="662" y="285" text-anchor="middle" fill="#E11D48" font-family="system-ui, sans-serif" font-size="11" font-weight="700">RS</text>
+      <!-- Name & edition -->
+      <text x="692" y="282" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">ISO 10218-1/-2</text>
+      <text x="692" y="298" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-weight="400">2025</text>
+      <!-- Domain -->
+      <text x="642" y="324" fill="#334155" font-family="system-ui, sans-serif" font-size="11" font-weight="600">Robot Safety</text>
+      <text x="642" y="340" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Industrial & Collab</text>
+    </g>
+</svg>

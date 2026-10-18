@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 210" width="940" height="210">
+  <rect width="940" height="210" rx="12" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="1"/>
+  
+    <g>
+      <rect x="10" y="10" width="290" height="88" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="10" width="4" height="88" rx="2" fill="#1479F5"/>
+      <text x="28" y="38" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Safety Engineer</text>
+      <rect x="28" y="48" width="auto" height="18" rx="3" fill="#1479F5" fill-opacity="0.1"/>
+      <text x="28" y="62" fill="#1479F5" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Ch 5–9</text>
+      <text x="28" y="82" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Lifecycle phases, HARA to validation</text>
+    </g>
+    <g>
+      <rect x="320" y="10" width="290" height="88" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="320" y="10" width="4" height="88" rx="2" fill="#0E7C7B"/>
+      <text x="338" y="38" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Cybersecurity Eng.</text>
+      <rect x="338" y="48" width="auto" height="18" rx="3" fill="#0E7C7B" fill-opacity="0.1"/>
+      <text x="338" y="62" fill="#0E7C7B" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Ch 5–9 + 14</text>
+      <text x="338" y="82" fill="#475569" font-family="system-ui, sans-serif" font-size="10">TARA integration, audit readiness</text>
+    </g>
+    <g>
+      <rect x="630" y="10" width="290" height="88" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="630" y="10" width="4" height="88" rx="2" fill="#7C3AED"/>
+      <text x="648" y="38" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">AI/ML Engineer</text>
+      <rect x="648" y="48" width="auto" height="18" rx="3" fill="#7C3AED" fill-opacity="0.1"/>
+      <text x="648" y="62" fill="#7C3AED" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Ch 8 + 12</text>
+      <text x="648" y="82" fill="#475569" font-family="system-ui, sans-serif" font-size="10">AI worked example, data safety</text>
+    </g>
+    <g>
+      <rect x="10" y="110" width="290" height="88" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="110" width="4" height="88" rx="2" fill="#E0A33E"/>
+      <text x="28" y="138" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">System Architect</text>
+      <rect x="28" y="148" width="auto" height="18" rx="3" fill="#E0A33E" fill-opacity="0.1"/>
+      <text x="28" y="162" fill="#E0A33E" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Ch 6 + 16</text>
+      <text x="28" y="182" fill="#475569" font-family="system-ui, sans-serif" font-size="10">System-level dev, tool chains</text>
+    </g>
+    <g>
+      <rect x="320" y="110" width="290" height="88" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="320" y="110" width="4" height="88" rx="2" fill="#059669"/>
+      <text x="338" y="138" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Quality Manager</text>
+      <rect x="338" y="148" width="auto" height="18" rx="3" fill="#059669" fill-opacity="0.1"/>
+      <text x="338" y="162" fill="#059669" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Ch 4 + 14</text>
+      <text x="338" y="182" fill="#475569" font-family="system-ui, sans-serif" font-size="10">Org setup, audit readiness</text>
+    </g>
+    <g>
+      <rect x="630" y="110" width="290" height="88" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="630" y="110" width="4" height="88" rx="2" fill="#D45B45"/>
+      <text x="648" y="138" fill="#10264D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Physical AI Eng.</text>
+      <rect x="648" y="148" width="auto" height="18" rx="3" fill="#D45B45" fill-opacity="0.1"/>
+      <text x="648" y="162" fill="#D45B45" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Ch 17</text>
+      <text x="648" y="182" fill="#475569" font-family="system-ui, sans-serif" font-size="10">IEC 61508, ISO 13849, ISO 10218</text>
+    </g>
+</svg>
