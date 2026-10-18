@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 120" width="920" height="120">
+  
+    <g>
+      <rect x="10" y="10" width="170" height="100" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="10" y="10" width="170" height="4" rx="2" fill="#1479F5"/>
+      <!-- Placeholder icon area -->
+      <rect x="22" y="24" width="146" height="40" rx="4" fill="#1479F5" fill-opacity="0.06"/>
+      <text x="95" y="50" text-anchor="middle" fill="#1479F5" font-family="system-ui, sans-serif" font-size="18">◈</text>
+      <text x="22" y="80" fill="#10264D" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Standards Family Tree</text>
+      <text x="22" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="9">Hierarchical lineage from IEC 61508</text>
+    </g>
+    <g>
+      <rect x="190" y="10" width="170" height="100" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="190" y="10" width="170" height="4" rx="2" fill="#0E7C7B"/>
+      <!-- Placeholder icon area -->
+      <rect x="202" y="24" width="146" height="40" rx="4" fill="#0E7C7B" fill-opacity="0.06"/>
+      <text x="275" y="50" text-anchor="middle" fill="#0E7C7B" font-family="system-ui, sans-serif" font-size="18">◈</text>
+      <text x="202" y="80" fill="#10264D" font-family="system-ui, sans-serif" font-size="10" font-weight="600">System Boundary Map</text>
+      <text x="202" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="9">Standard scope across domains</text>
+    </g>
+    <g>
+      <rect x="370" y="10" width="170" height="100" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="370" y="10" width="170" height="4" rx="2" fill="#E0A33E"/>
+      <!-- Placeholder icon area -->
+      <rect x="382" y="24" width="146" height="40" rx="4" fill="#E0A33E" fill-opacity="0.06"/>
+      <text x="455" y="50" text-anchor="middle" fill="#E0A33E" font-family="system-ui, sans-serif" font-size="18">◈</text>
+      <text x="382" y="80" fill="#10264D" font-family="system-ui, sans-serif" font-size="10" font-weight="600">SysML Block Diagram</text>
+      <text x="382" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="9">Structural architecture of standards</text>
+    </g>
+    <g>
+      <rect x="550" y="10" width="170" height="100" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="550" y="10" width="170" height="4" rx="2" fill="#059669"/>
+      <!-- Placeholder icon area -->
+      <rect x="562" y="24" width="146" height="40" rx="4" fill="#059669" fill-opacity="0.06"/>
+      <text x="635" y="50" text-anchor="middle" fill="#059669" font-family="system-ui, sans-serif" font-size="18">◈</text>
+      <text x="562" y="80" fill="#10264D" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Integrated V-Cycle</text>
+      <text x="562" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="9">9 standards mapped to lifecycle</text>
+    </g>
+    <g>
+      <rect x="730" y="10" width="170" height="100" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+      <rect x="730" y="10" width="170" height="4" rx="2" fill="#7C3AED"/>
+      <!-- Placeholder icon area -->
+      <rect x="742" y="24" width="146" height="40" rx="4" fill="#7C3AED" fill-opacity="0.06"/>
+      <text x="815" y="50" text-anchor="middle" fill="#7C3AED" font-family="system-ui, sans-serif" font-size="18">◈</text>
+      <text x="742" y="80" fill="#10264D" font-family="system-ui, sans-serif" font-size="10" font-weight="600">Integration Architecture</text>
+      <text x="742" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="9">Cross-domain data flow</text>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 260" width="920" height="260">
+  <rect width="920" height="260" rx="10" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1"/>
+  <!-- Header row -->
+  <rect x="10" y="14" width="900" height="42" rx="6" fill="#10264D"/>
+  <text x="65" y="40" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="700">IEC 61508</text>
+  <text x="195" y="40" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="700">ISO 26262</text>
+  <text x="340" y="40" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="700">ISO 13849-1</text>
+  <text x="480" y="40" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="700">ISO/SAE 21434</text>
+  <text x="700" y="40" text-anchor="middle" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="11" font-weight="700">Typical Application</text>
+  <!-- Rows -->
+  
+    <rect x="10" y="70" width="900" height="42" rx="0" fill="#DBEAFE" fill-opacity="0.3"/>
+    <text x="65" y="97" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">SIL 1</text>
+    <text x="195" y="97" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">ASIL A</text>
+    <text x="340" y="97" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">PL b</text>
+    <text x="480" y="97" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">CAL 1</text>
+    <text x="700" y="97" text-anchor="middle" fill="#475569" font-family="system-ui, sans-serif" font-size="11">Body electronics, comfort</text>
+    <rect x="10" y="114" width="900" height="42" rx="0" fill="#BFDBFE" fill-opacity="0.3"/>
+    <text x="65" y="141" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">SIL 2</text>
+    <text x="195" y="141" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">ASIL B</text>
+    <text x="340" y="141" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">PL c / PL d</text>
+    <text x="480" y="141" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">CAL 2</text>
+    <text x="700" y="141" text-anchor="middle" fill="#475569" font-family="system-ui, sans-serif" font-size="11">Adaptive headlights, park assist</text>
+    <rect x="10" y="158" width="900" height="42" rx="0" fill="#93C5FD" fill-opacity="0.3"/>
+    <text x="65" y="185" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">SIL 3</text>
+    <text x="195" y="185" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">ASIL C / D</text>
+    <text x="340" y="185" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">PL d / PL e</text>
+    <text x="480" y="185" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">CAL 3</text>
+    <text x="700" y="185" text-anchor="middle" fill="#475569" font-family="system-ui, sans-serif" font-size="11">AEB, lane keeping, steering</text>
+    <rect x="10" y="202" width="900" height="42" rx="0" fill="#60A5FA" fill-opacity="0.3"/>
+    <text x="65" y="229" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">SIL 4</text>
+    <text x="195" y="229" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">—</text>
+    <text x="340" y="229" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">—</text>
+    <text x="480" y="229" text-anchor="middle" fill="#10264D" font-family="system-ui, sans-serif" font-size="12" font-weight="600">CAL 4</text>
+    <text x="700" y="229" text-anchor="middle" fill="#475569" font-family="system-ui, sans-serif" font-size="11">Nuclear/rail (not automotive)</text>
+  <!-- Footer note -->
+  <text x="460" y="248" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="10" font-style="italic">Mappings are approximate and context-dependent. See Chapter 17 for detailed derivation.</text>
+</svg>

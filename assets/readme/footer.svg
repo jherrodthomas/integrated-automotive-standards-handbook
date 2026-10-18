@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 80" width="960" height="80">
+  <rect width="960" height="80" rx="8" fill="#0F172A"/>
+  <text x="480" y="32" text-anchor="middle" fill="#64748B" font-family="system-ui, sans-serif" font-size="11">Integrated Automotive Standards Handbook v2.0 · CC BY-SA 4.0 · Jherrod Thomas · Vizology AI</text>
+  <text x="480" y="55" text-anchor="middle" fill="#475569" font-family="system-ui, sans-serif" font-size="10">This handbook is a reference guide. Consult official published standards from ISO, SAE, IEC, VDA, and AIAG for normative requirements.</text>
+</svg>
